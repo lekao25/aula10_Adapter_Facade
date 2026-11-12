@@ -1,3 +1,6 @@
+--release 17 -encoding UTF-8 -d bin src/siga/*.java
+java -cp bin siga.Main
+
 # SIGA — Atividade de padrões estruturais: Adapter e Facade
 
 **Técnicas de Programação II (TP2) · Aula 10** — CST em Desenvolvimento de Software Multiplataforma · Fatec de Porto Ferreira
